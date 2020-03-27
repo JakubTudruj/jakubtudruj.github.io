@@ -26,7 +26,9 @@
       <pubDate>Fri, 27 Mar 2020 16:57:17 +0100</pubDate>
       
       <guid>https://jakubtudruj.github.io/articles/first-article/</guid>
-      <description>Hello world welcome to my articles actually the very first :)</description>
+      <description>Hello world welcome to my articles actually the very first :)
+Example code look at this, man:
+   1 2 3 4 5 6  struct MyStruct { let someText: String }  let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.someText) //&amp;#34;example tezt&amp;#34;   struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;quot;example text&amp;quot;) print(o.someText) //&amp;quot;example tezt&amp;quot; Swift struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.</description>
     </item>
     
   </channel>
