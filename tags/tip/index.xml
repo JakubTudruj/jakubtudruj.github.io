@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tip on My New Hugo Site</title>
+    <title>tip on TheCodable</title>
     <link>https://jakubtudruj.github.io/tags/tip/</link>
-    <description>Recent content in tip on My New Hugo Site</description>
+    <description>Recent content in tip on TheCodable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Mar 2020 16:57:17 +0100</lastBuildDate>
@@ -19,7 +19,8 @@
       <guid>https://jakubtudruj.github.io/articles/first-article/</guid>
       <description>Hello world welcome to my articles actually the very first :)
 Example code look at this, man:
-   1 2 3 4 5 6  struct MyStruct { let someText: String }  let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.someText) //&amp;#34;example tezt&amp;#34;   struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;quot;example text&amp;quot;) print(o.someText) //&amp;quot;example tezt&amp;quot; Swift struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.</description>
+hello world
+struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;quot;example text&amp;quot;) print(o.someText) //&amp;quot;example tezt&amp;quot; Swift struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.someText) //&amp;#34;example tezt&amp;#34; let x = MyStruct(someText: &amp;#34;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

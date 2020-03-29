@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xcode on My New Hugo Site</title>
+    <title>xcode on TheCodable</title>
     <link>https://jakubtudruj.github.io/tags/xcode/</link>
-    <description>Recent content in xcode on My New Hugo Site</description>
+    <description>Recent content in xcode on TheCodable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Mar 2020 17:06:47 +0100</lastBuildDate>
@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Second article</title>
+      <link>https://jakubtudruj.github.io/articles/second-article/</link>
+      <pubDate>Fri, 27 Mar 2020 17:06:47 +0100</pubDate>
+      
+      <guid>https://jakubtudruj.github.io/articles/second-article/</guid>
+      <description>Paragraph 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus quis varius quam quisque. A diam maecenas sed enim ut sem viverra aliquet eget. Mattis enim ut tellus elementum sagittis vitae et leo. Arcu felis bibendum ut tristique et egestas. Ut pharetra sit amet aliquam. Turpis cursus in hac habitasse platea dictumst quisque. Mus mauris vitae ultricies leo integer malesuada nunc vel.</description>
+    </item>
+    
+    <item>
       <title>Some New Tip</title>
       <link>https://jakubtudruj.github.io/tips/some-new-tip/</link>
       <pubDate>Fri, 27 Mar 2020 17:06:47 +0100</pubDate>
       
       <guid>https://jakubtudruj.github.io/tips/some-new-tip/</guid>
-      <description></description>
+      <description>Paragraph 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus quis varius quam quisque. A diam maecenas sed enim ut sem viverra aliquet eget. Mattis enim ut tellus elementum sagittis vitae et leo. Arcu felis bibendum ut tristique et egestas. Ut pharetra sit amet aliquam. Turpis cursus in hac habitasse platea dictumst quisque. Mus mauris vitae ultricies leo integer malesuada nunc vel.</description>
     </item>
     
     <item>
@@ -28,7 +37,8 @@
       <guid>https://jakubtudruj.github.io/articles/first-article/</guid>
       <description>Hello world welcome to my articles actually the very first :)
 Example code look at this, man:
-   1 2 3 4 5 6  struct MyStruct { let someText: String }  let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.someText) //&amp;#34;example tezt&amp;#34;   struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;quot;example text&amp;quot;) print(o.someText) //&amp;quot;example tezt&amp;quot; Swift struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.</description>
+hello world
+struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;quot;example text&amp;quot;) print(o.someText) //&amp;quot;example tezt&amp;quot; Swift struct MyStruct { let someText: String } let o = MyStruct(someText: &amp;#34;example text&amp;#34;) print(o.someText) //&amp;#34;example tezt&amp;#34; let x = MyStruct(someText: &amp;#34;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

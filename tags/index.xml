@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on TheCodable</title>
     <link>https://jakubtudruj.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on TheCodable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 17:06:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 17:06:47 +0100</lastBuildDate>
     
 	<atom:link href="https://jakubtudruj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>swift</title>
+      <link>https://jakubtudruj.github.io/tags/swift/</link>
+      <pubDate>Sun, 29 Mar 2020 17:06:47 +0100</pubDate>
+      
+      <guid>https://jakubtudruj.github.io/tags/swift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>xcode</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 27 Mar 2020 17:06:47 +0100</pubDate>
       
       <guid>https://jakubtudruj.github.io/tags/xcode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swift</title>
-      <link>https://jakubtudruj.github.io/tags/swift/</link>
-      <pubDate>Fri, 27 Mar 2020 16:57:17 +0100</pubDate>
-      
-      <guid>https://jakubtudruj.github.io/tags/swift/</guid>
       <description></description>
     </item>
     

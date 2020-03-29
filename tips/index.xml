@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tips on My New Hugo Site</title>
+    <title>Tips on TheCodable</title>
     <link>https://jakubtudruj.github.io/tips/</link>
-    <description>Recent content in Tips on My New Hugo Site</description>
+    <description>Recent content in Tips on TheCodable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 16:54:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 17:06:47 +0100</lastBuildDate>
     
 	<atom:link href="https://jakubtudruj.github.io/tips/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
       <pubDate>Fri, 27 Mar 2020 17:06:47 +0100</pubDate>
       
       <guid>https://jakubtudruj.github.io/tips/some-new-tip/</guid>
-      <description></description>
+      <description>Paragraph 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus quis varius quam quisque. A diam maecenas sed enim ut sem viverra aliquet eget. Mattis enim ut tellus elementum sagittis vitae et leo. Arcu felis bibendum ut tristique et egestas. Ut pharetra sit amet aliquam. Turpis cursus in hac habitasse platea dictumst quisque. Mus mauris vitae ultricies leo integer malesuada nunc vel.</description>
     </item>
     
   </channel>
